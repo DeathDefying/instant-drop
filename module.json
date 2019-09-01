@@ -1,0 +1,5 @@
+{
+    "disableAutoUpdate": false,
+    "name": "instantDrop",
+    "description": "Automatically drops raid after finding a portal."
+}

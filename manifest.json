@@ -1,0 +1,11 @@
+{
+    "files": {
+        "README.md": "fc110b78c0012804478df0d71b68018dce2e63245d3700ad743b7b433947c348",
+        "index.js": "94e9f9c3f6ea0a3e036d68a035605c96439cea89c724d2dc098cf99cd0d609b1",
+        "module.json": "57b54c667389269917b7d353be0680c1b42f1b7b8c1d69c0ecdaf1a0b90113bc"
+    },
+    "defs": {
+        "C_LEAVE_PARTY": 1,
+        "S_SYSTEM_MESSAGE": 1
+    }
+}
