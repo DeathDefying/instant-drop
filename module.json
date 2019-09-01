@@ -1,5 +1,8 @@
 {
     "disableAutoUpdate": false,
     "name": "instantDrop",
-    "description": "Automatically drops raid after finding a portal."
+    "author": "Yang",
+    "description": "Automatically drops raid after finding a portal.",
+    "servers": ["https://raw.githubusercontent.com/DeathDefying/instant-drop/master/"],
+    "supportUrl": "https://github.com/DeathDefying/instant-drop/issues"
 }
